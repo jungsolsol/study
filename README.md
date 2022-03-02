@@ -14,7 +14,7 @@ Spring 예제공부 1
 
 엔티티 설계
 
-![엔티티설계](https://user-images.githubusercontent.com/88434960/156334200-ecdf5cd9-736e-40cf-ab
+![엔티티설계](https://user-images.githubusercontent.com/88434960/156336389-8d95af47-4cd2-4a5f-80e3-a9df3cdc6dc7.JPG)
 
 테이블 설계
 
