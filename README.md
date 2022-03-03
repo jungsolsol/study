@@ -1,3 +1,3 @@
 # algorithm study
 1일 1commit
-# *예제연습은 master branch에
+*실습은 master branch에
