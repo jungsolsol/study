@@ -16,14 +16,16 @@
 또는 정책적용을 안할수도있다
 
 ![1](https://user-images.githubusercontent.com/88434960/156484780-8a5ac222-56bd-4b1c-84cd-c3f84a775edf.JPG)
+
 협력관계 관계도
 
 ![2](https://user-images.githubusercontent.com/88434960/156484785-a9dd968f-26a5-441a-ba87-f8d73215d0ed.JPG)
+
 의존관계 주입을위해 MemeberServiceImpl에서 @Autowired 어노테이션을 사용해 의존관계 주입을하고
 연결은 MemeberService 인터페이스에서 이루어졌다
 
 ![3](https://user-images.githubusercontent.com/88434960/156485500-384f2c20-6237-4250-b3b9-fc5d832f918e.JPG)
--441a-ba87-f8d73215d0ed.JPG)
+
 OrderService의 경우에는 할인정책이 여러가지가 있기때문에 인터페이스만 의존하여 객체지향이
 깨지지 않도록 설계했다
 
